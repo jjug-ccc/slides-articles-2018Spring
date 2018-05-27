@@ -66,8 +66,10 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - 【C+D】 Java のデータ圧縮ライブラリを極める	KOMIYA Atsushi
 - 【C+D】 ビジネスとオープンソース - 戦略と手法 -	Jun Ohtani
 - 【G+H】 JDBC APIもそろそろ非同期の波に乗りたいらしい	西川 彰広
-- 【I】 (俺が)はじめてのNetty	持田真哉
+- [【I】 (俺が)はじめてのNetty](https://www.slideshare.net/mikeneck/jjug-ccc-2018-spring-i7-netty)	持田真哉
 - 【M】 GKEとgRPCで実装する多言語対応・スケーラブルな内部API	高橋秀平
 - 【M】 Google Dataflow(Java)を使ったビッグデータのバリデーション	丹野 航
 
 ## 参加しましたブログ
+
+- [JJUG CCC 2018 Spring にて発表しました #jjug_ccc](https://mike-neck.hatenadiary.com/entry/2018/05/27/085352)
