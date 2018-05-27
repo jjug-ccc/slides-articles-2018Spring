@@ -23,7 +23,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - 【L】 OCJP SE 8 Gold合格までに取り組んだこと	五十嵐稔雄
 - 【L】 SpotBugs 3.1.xの現状と内部実装が抱える問題	Kengo TODA
 - 【M】 Javadocから考える・はじめる業務改善	柚木良介
-- 【M】 Javaを通じて学ぶメールの世界　～メール送信編～	菊田洋一
+- [【M】 Javaを通じて学ぶメールの世界　～メール送信編～](https://speakerdeck.com/kikutaro/javawotong-zitexue-bumerufalseshi-jie)	菊田洋一
 
 ## 12:00-12:45
 - 【E+F】 普通の人のためのJavaコミュニティイベントのススメ（【ランチ付き】ランチセッション ）	杉山　貴章
@@ -74,3 +74,4 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 
 - [JJUG CCC 2018 Spring にて発表しました #jjug_ccc](https://mike-neck.hatenadiary.com/entry/2018/05/27/085352)
 - [JJUG CCC 2018: Spring Cloud -> Docker -> Kubernetes](https://salaboy.com/2018/05/26/jjug-ccc-2018-spring-cloud-docker-kubernetes/)
+- [JJUG CCC 2018 Springでメールの話をしました #jjug_ccc](http://kikutaro777.hatenablog.com/entry/2018/05/27/150504)
