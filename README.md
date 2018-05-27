@@ -18,7 +18,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - 【A+B】 ざっくりわかった気になるモダンGC入門	tomoya yokota
 - 【C+D】 Concourse CI入門　ライブ環境構築＆ビルド	うらがみ
 - 【E+F】 Java 9 Variable Handles のイロハ（Java SE 基調講演）	David Buck
-- 【G+H】 Swagger(OpenAPI Specification)入門	正野　勇嗣
+- [【G+H】 Swagger(OpenAPI Specification)入門](https://www.slideshare.net/kounan13/swagger-jjug-ccc-2018-spring)	正野　勇嗣
 - 【I】 ディープラーニングシステムの導入と運用で学んだ事	Eduardo Gonzalez
 - 【L】 OCJP SE 8 Gold合格までに取り組んだこと	五十嵐稔雄
 - 【L】 SpotBugs 3.1.xの現状と内部実装が抱える問題	Kengo TODA
