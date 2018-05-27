@@ -6,7 +6,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 
 ## 10:00-10:45
 - 【A+B】 Spring Boot Actuator 2.0 & Micrometer Toshiaki Maki
-- 【C+D】 マルチスレッド問題の特定と再現に頑張った話	Koji Lin
+- [【C+D】 マルチスレッド問題の特定と再現に頑張った話](https://www.slideshare.net/linecorp/ss-98819155)	Koji Lin
 - 【E+F】 Javaはコミュニティの力で再び偉大になれるのか（JJUG基調講演）	鈴木　雄介
 - 【G+H】 JavaでWebサービスを作り続けるための戦略と戦術	Y.Watanabe(@nabedge)
 - 【I】　Introduction to MicroProfile Metrics	HASUNUMA Kenji
