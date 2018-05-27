@@ -50,7 +50,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - 【C+D】 マネーフォワードのアカウントアグリゲーションにおけるデータ管理基盤について	中川敦／佐竹力
 - 【E+F】 JavaエンジニアのためのDocker入門 〜 仮想開発・テスト環境構築 〜	Abe Asami (きの子)
 - 【G+H】 Eclipse Collectionsを現場に浸透させるためのフレームワーク対応	U-NEXT技術顧問　久保　雅彦 (jflute)
-- 【I】 Spring Cloud, Docker & Kubernetes - Lessons Learned in the context of an OSS Project	Mauricio Salatino／Daisuke Yoshimoto
+- [【I】 Spring Cloud, Docker & Kubernetes - Lessons Learned in the context of an OSS Project](https://www.slideshare.net/salaboy/jjug-ccc-2018-lessons-learned-spring-cloud-docker-kubernetes)	Mauricio Salatino／Daisuke Yoshimoto
 - 【M】 請負Java開発でスクラムした成功事例	小堤司
 
 ## 16:45-17:30
@@ -73,3 +73,4 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 ## 参加しましたブログ
 
 - [JJUG CCC 2018 Spring にて発表しました #jjug_ccc](https://mike-neck.hatenadiary.com/entry/2018/05/27/085352)
+- [JJUG CCC 2018: Spring Cloud -> Docker -> Kubernetes](https://salaboy.com/2018/05/26/jjug-ccc-2018-spring-cloud-docker-kubernetes/)
