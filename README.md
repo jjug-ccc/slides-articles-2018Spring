@@ -2,7 +2,7 @@
 JJUG CCC 2018 Spring 登壇資料まとめ
 
 ## 09:30-10:00
-- 【E+F】 日本Javaユーザーグループ 年次総会
+- [【E+F】 日本Javaユーザーグループ 年次総会](https://www.slideshare.net/jjug/java-2018-98886645)
 
 ## 10:00-10:45
 - 【A+B】 Spring Boot Actuator 2.0 & Micrometer Toshiaki Maki
