@@ -9,7 +9,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - [【C+D】 マルチスレッド問題の特定と再現に頑張った話](https://www.slideshare.net/linecorp/ss-98819155)	Koji Lin
 - 【E+F】 Javaはコミュニティの力で再び偉大になれるのか（JJUG基調講演）	鈴木　雄介
 - 【G+H】 JavaでWebサービスを作り続けるための戦略と戦術	Y.Watanabe(@nabedge)
-- 【I】　Introduction to MicroProfile Metrics	HASUNUMA Kenji
+- [【I】　Introduction to MicroProfile Metrics](https://www.slideshare.net/khasunuma/microprofile-metrics)	HASUNUMA Kenji
 - 【L】　情報処理安全確保支援士とエンジニア	佐藤達志(@mame_pika)
 - 【M】　まだまだこれから！JUnit5入門	進藤　遼
 
