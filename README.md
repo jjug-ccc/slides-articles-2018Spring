@@ -35,7 +35,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - 【G+H】 LINE LIVE のチャットが 30,000+/min のコメント投稿を捌くようになるまで	萩原 豪 (Oklahomer)
 - 【I】 Scala製システムを3年間運用することで起きた様々なことへの対処	粕谷大輔 (@daiksy)
 - 【L】 Apache Tinkerpopとグラフデータベースの世界	森下 雄貴
-- 【M】 収益を支える中規模アプリケーション開発奮闘記	Kiyotaka Suzuki (@tamtam180)
+- 【M】 [収益を支える中規模アプリケーション開発奮闘記](https://www.slideshare.net/tamrin69/jjugccc2018-app-review-postmortem/)	Kiyotaka Suzuki (@tamtam180)
 
 ## 14:30-15:15
 - 【A+B】 如何に “データが壊れない” 管理画面を作るか - 管理画面開発の裏側	Keiji Muraishi
