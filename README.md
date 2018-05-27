@@ -69,3 +69,5 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - 【I】 (俺が)はじめてのNetty	持田真哉
 - 【M】 GKEとgRPCで実装する多言語対応・スケーラブルな内部API	高橋秀平
 - 【M】 Google Dataflow(Java)を使ったビッグデータのバリデーション	丹野 航
+
+## 参加しましたブログ
