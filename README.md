@@ -80,3 +80,4 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - [JJUG CCC 2018 Spring にて発表しました #jjug_ccc](https://mike-neck.hatenadiary.com/entry/2018/05/27/085352)
 - [JJUG CCC 2018: Spring Cloud -> Docker -> Kubernetes](https://salaboy.com/2018/05/26/jjug-ccc-2018-spring-cloud-docker-kubernetes/)
 - [JJUG CCC 2018 Springでメールの話をしました #jjug_ccc](http://kikutaro777.hatenablog.com/entry/2018/05/27/150504)
+- [JJUG CCC 2018 Spring ( #jjug_ccc ) - セッション資料の一覧 - 地平線に行く](http://d.hatena.ne.jp/chiheisen/20180527/1527375138)
