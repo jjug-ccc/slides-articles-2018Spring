@@ -62,7 +62,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - [【M】 Java から TypeScript へ 切り替えて加速するサーバーレス開発](https://riotz.works/slides/?2018-jjug-ccc-spring#1)	lulzneko
 
 ## 17:45-18:30
-- 【A+B】 DDDとクリーンアーキテクチャでサーバーアプリケーションを作っている話	福嶋航
+- [【A+B】 DDDとクリーンアーキテクチャでサーバーアプリケーションを作っている話](https://www.slideshare.net/JSUXDesign/ddd-99098285)	福嶋航
 - [【C+D】 Java のデータ圧縮ライブラリを極める](https://speakerdeck.com/komiya_atsushi/java-falsedetaya-suo-raiburariwoji-meru-number-jjug-ccc-number-ccc-c7)	KOMIYA Atsushi
 - 【C+D】 ビジネスとオープンソース - 戦略と手法 -	Jun Ohtani
 - 【G+H】 JDBC APIもそろそろ非同期の波に乗りたいらしい	西川 彰広
