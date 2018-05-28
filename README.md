@@ -38,8 +38,8 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - 【M】 [収益を支える中規模アプリケーション開発奮闘記](https://www.slideshare.net/tamrin69/jjugccc2018-app-review-postmortem/)	Kiyotaka Suzuki (@tamtam180)
 
 ## 14:30-15:15
-- 【A+B】 如何に “データが壊れない” 管理画面を作るか - 管理画面開発の裏側	Keiji Muraishi
-- 【C+D】 JavaでインメモリSQLエンジンを作ってみた	毛利元彦
+- [【A+B】 如何に “データが壊れない” 管理画面を作るか - 管理画面開発の裏側](https://www.slideshare.net/ssuser4227af/ss-99108791)	Keiji Muraishi
+- [【C+D】 JavaでインメモリSQLエンジンを作ってみた](https://www.slideshare.net/JSUXDesign/javasql-99135805/JSUXDesign/javasql-99135805)	毛利元彦
 - [【E+F】 Java10まとめと、どうなるJava11](https://www.slideshare.net/nowokay/java10-and-11)	きしだ なおき	
 - [【G+H】 Spring Boot と一般ライブラリの折り合いのつけかた](https://speakerdeck.com/saiya_moebius/spring-boot-to-ban-raiburarifalsezhe-rihe-ifalsetukekata)	矢崎 聖也
 - [【I】 How to Properly Blame Things for Causing Latency: An Introduction to Distributed Tracing and Zipkin](https://speakerdeck.com/adriancole/how-to-properly-blame-things-for-causing-latency-jjug-2018)	Adrian Cole
@@ -57,7 +57,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - [【A+B】 Logicadの秒間16万リクエストをさばく広告入札システムにおける、gRPCの活用事例](https://www.slideshare.net/hiroiso/logicad16grpc)	磯田　浩靖／吉井　弘明
 - 【C+D】 自分のDocker/K8s環境をタダで手に入れる　ICP Community Editionで簡単構築	斎藤　和史／田中　孝清
 - [【E+F】 REST API に疲れたあなたへ贈る GraphQL 入門](https://www.slideshare.net/keisuketsukagoshi/rest-api-graphql)	塚越 啓介
-- 【G+H】 Spring Boot on Kubernetes : Yahoo! ズバトク事例	玉利 拓郎
+- [【G+H】 Spring Boot on Kubernetes : Yahoo! ズバトク事例](https://www.slideshare.net/techblogyahoo/spring-boot-on-kubernetes-yahoo-jjugccc)	玉利 拓郎
 - [【I】 Networks and Types -- Typed Reactive Systems with Akka	Konrad `ktoso` Malawski](https://www.slideshare.net/ktoso/preview-networks-and-types-the-future-of-akka)
 - [【M】 Java から TypeScript へ 切り替えて加速するサーバーレス開発](https://riotz.works/slides/?2018-jjug-ccc-spring#1)	lulzneko
 
@@ -74,6 +74,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 
 - [Micronaut を試した](https://www.slideshare.net/kentaromaeda581/try-micronaut)	前多 (@kencharos)
 - [Spring Boot アプリケーションの起動を速くする 108 の Tips](https://www.slideshare.net/mikeneck/jjug-ccc-2018-spring-lt-spring-boot-108-tips-jjugccc-jjug)	Shinya Mochida (@mike_neck)
+- [WEBアプリケーションの性能問題を診断する話](https://www.slideshare.net/NanZhang98/jjug-ccc-2018-spring-lt-speechweb)	楠張
 
 ## 参加しましたブログ
 
