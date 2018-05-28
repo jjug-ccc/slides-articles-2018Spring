@@ -58,7 +58,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - 【C+D】 自分のDocker/K8s環境をタダで手に入れる　ICP Community Editionで簡単構築	斎藤　和史／田中　孝清
 - [【E+F】 REST API に疲れたあなたへ贈る GraphQL 入門](https://www.slideshare.net/keisuketsukagoshi/rest-api-graphql)	塚越 啓介
 - 【G+H】 Spring Boot on Kubernetes : Yahoo! ズバトク事例	玉利 拓郎
-- 【I】 Networks and Types -- Typed Reactive Systems with Akka	Konrad `ktoso` Malawski
+- [【I】 Networks and Types -- Typed Reactive Systems with Akka	Konrad `ktoso` Malawski](https://www.slideshare.net/ktoso/preview-networks-and-types-the-future-of-akka)
 - [【M】 Java から TypeScript へ 切り替えて加速するサーバーレス開発](https://riotz.works/slides/?2018-jjug-ccc-spring#1)	lulzneko
 
 ## 17:45-18:30
