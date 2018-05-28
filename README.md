@@ -34,7 +34,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - [【E+F】 Pivotal認定講師が解説！ReactiveだけじゃないSpring 5 & Spring Boot 2新機能解説](https://www.slideshare.net/masatoshitada7/reactivespring-5-spring-boot-2)	多田真敏
 - [【G+H】 LINE LIVE のチャットが 30,000+/min のコメント投稿を捌くようになるまで](https://www.slideshare.net/linecorp/line-live-30000min-98811987)	萩原 豪 (Oklahomer)
 - 【I】 Scala製システムを3年間運用することで起きた様々なことへの対処	粕谷大輔 (@daiksy)
-- 【L】 Apache Tinkerpopとグラフデータベースの世界	森下 雄貴
+- 【L】 [Apache Tinkerpopとグラフデータベースの世界](https://www.slideshare.net/yukim/apache-tinkerpop)	森下 雄貴
 - 【M】 [収益を支える中規模アプリケーション開発奮闘記](https://www.slideshare.net/tamrin69/jjugccc2018-app-review-postmortem/)	Kiyotaka Suzuki (@tamtam180)
 
 ## 14:30-15:15
