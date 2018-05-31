@@ -16,6 +16,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 ## 11:00-11:45
 - [【A+B】 Kotlin + Spring Bootでサーバー開発](https://www.slideshare.net/KiyotakaSoranaka/kotlin-spring-boot)	soranaka
 - [【A+B】 ざっくりわかった気になるモダンGC入門](https://speakerdeck.com/yokotaso/introduction-to-modern-gc)	tomoya yokota
+    - [ざっくりわかった気になるモダンGC入門(書き起こし版)](http://blog.cybozu.io/entry/2018/05/29/080000)
 - [【C+D】 Concourse CI入門　ライブ環境構築＆ビルド](https://backpaper0.github.io/jjug-ccc-2018-spring-concourse/slide/index.html#1)	うらがみ
 - 【E+F】 Java 9 Variable Handles のイロハ（Java SE 基調講演）	David Buck
 - [【G+H】 Swagger(OpenAPI Specification)入門](https://www.slideshare.net/kounan13/swagger-jjug-ccc-2018-spring)	正野　勇嗣
@@ -82,3 +83,4 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - [JJUG CCC 2018: Spring Cloud -> Docker -> Kubernetes](https://salaboy.com/2018/05/26/jjug-ccc-2018-spring-cloud-docker-kubernetes/)
 - [JJUG CCC 2018 Springでメールの話をしました #jjug_ccc](http://kikutaro777.hatenablog.com/entry/2018/05/27/150504)
 - [JJUG CCC 2018 Spring ( #jjug_ccc ) - セッション資料の一覧 - 地平線に行く](http://d.hatena.ne.jp/chiheisen/20180527/1527375138)
+- [JJUG CCC 2018 Springで「ざっくりわかった気になるモダンGC入門」というお話をしてきました](http://yokotaso.hatenablog.com/entry/2018/05/31/130000)
