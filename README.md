@@ -10,7 +10,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - [【E+F】 Javaはコミュニティの力で再び偉大になれるのか（JJUG基調講演）](https://www.slideshare.net/yusuke/java-98886920)	鈴木　雄介
 - 【G+H】 JavaでWebサービスを作り続けるための戦略と戦術	Y.Watanabe(@nabedge)
 - [【I】　Introduction to MicroProfile Metrics](https://www.slideshare.net/khasunuma/microprofile-metrics)	HASUNUMA Kenji
-- 【L】　情報処理安全確保支援士とエンジニア	佐藤達志(@mame_pika)
+- [【L】　情報処理安全確保支援士とエンジニア](https://www.slideshare.net/TatushiSato/jjug-ccc-2018-spring)	佐藤達志(@mame_pika)
 - [【M】　まだまだこれから！JUnit5入門](https://speakerdeck.com/rshindo/jjug-ccc-2018-spring)	進藤　遼
 
 ## 11:00-11:45
@@ -18,7 +18,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - [【A+B】 ざっくりわかった気になるモダンGC入門](https://speakerdeck.com/yokotaso/introduction-to-modern-gc)	tomoya yokota
     - [ざっくりわかった気になるモダンGC入門(書き起こし版)](http://blog.cybozu.io/entry/2018/05/29/080000)
 - [【C+D】 Concourse CI入門　ライブ環境構築＆ビルド](https://backpaper0.github.io/jjug-ccc-2018-spring-concourse/slide/index.html#1)	うらがみ
-- 【E+F】 Java 9 Variable Handles のイロハ（Java SE 基調講演）	David Buck
+- [【E+F】 Java 9 Variable Handles のイロハ（Java SE 基調講演）](https://www.slideshare.net/DavidBuck7/var-handles-jjugcccspring2018)	David Buck
 - [【G+H】 Swagger(OpenAPI Specification)入門](https://www.slideshare.net/kounan13/swagger-jjug-ccc-2018-spring)	正野　勇嗣
 - 【I】 ディープラーニングシステムの導入と運用で学んだ事	Eduardo Gonzalez
 - [【L】 OCJP SE 8 Gold合格までに取り組んだこと](https://www.slideshare.net/despair_L/jjugcccspring2018-l2)	五十嵐稔雄
