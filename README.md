@@ -8,7 +8,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - [【A+B】 Spring Boot Actuator 2.0 & Micrometer](https://www.slideshare.net/makingx/spring-boot-actuator-20-micrometer-jjugccc-ccca1) Toshiaki Maki
 - [【C+D】 マルチスレッド問題の特定と再現に頑張った話](https://www.slideshare.net/linecorp/ss-98819155)	Koji Lin
 - [【E+F】 Javaはコミュニティの力で再び偉大になれるのか（JJUG基調講演）](https://www.slideshare.net/yusuke/java-98886920)	鈴木　雄介
-- 【G+H】 JavaでWebサービスを作り続けるための戦略と戦術	Y.Watanabe(@nabedge)
+- [【G+H】 JavaでWebサービスを作り続けるための戦略と戦術	Y.Watanabe(@nabedge)](https://www.slideshare.net/nabedge/javaweb-jjugccc2018springg1) 渡辺 祐
 - [【I】　Introduction to MicroProfile Metrics](https://www.slideshare.net/khasunuma/microprofile-metrics)	HASUNUMA Kenji
 - [【L】　情報処理安全確保支援士とエンジニア](https://www.slideshare.net/TatushiSato/jjug-ccc-2018-spring)	佐藤達志(@mame_pika)
 - [【M】　まだまだこれから！JUnit5入門](https://speakerdeck.com/rshindo/jjug-ccc-2018-spring)	進藤　遼
