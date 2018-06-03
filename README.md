@@ -68,7 +68,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - 【C+D】 ビジネスとオープンソース - 戦略と手法 -	Jun Ohtani
 - 【G+H】 JDBC APIもそろそろ非同期の波に乗りたいらしい	西川 彰広
 - [【I】 (俺が)はじめてのNetty](https://www.slideshare.net/mikeneck/jjug-ccc-2018-spring-i7-netty)	持田真哉
-- 【M】 GKEとgRPCで実装する多言語対応・スケーラブルな内部API	高橋秀平
+- [【M】 GKEとgRPCで実装する多言語対応・スケーラブルな内部API](https://www.slideshare.net/BrainPad/gkegrpcapi)	高橋秀平
 - [【M】 Google Dataflow(Java)を使ったビッグデータのバリデーション](https://docs.google.com/presentation/d/1tcY_YlnAygGOZi_wJ2kFseo4sj7jYCl0iFpsMvmvLC8/edit?usp=sharing)	丹野 航
 
 ## LT
