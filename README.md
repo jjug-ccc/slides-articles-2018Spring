@@ -49,7 +49,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 ## 15:45-16:30
 - [【A+B】 古いフレームワークでもマイクロサービスアーキテクチャにしたい](https://docs.google.com/presentation/d/1OZFgxuJQacfTc-3SY-ldxEE4OM3KUaUocdwIdkmy1z8/edit#slide=id.g3b5fd37ef4_0_83)	佐藤慧太(Satoh Keita)
 - 【C+D】 マネーフォワードのアカウントアグリゲーションにおけるデータ管理基盤について	中川敦／佐竹力
-- [【E+F】 JavaエンジニアのためのDocker入門 〜 仮想開発・テスト環境構築 〜](https://speakerdeck.com/sammy7th/javaenziniafalsetamefalsedockerru-men-number-jjug-ccc-number-ccc-e5)	Abe Asami (きの子)
+- [【E+F】 JavaエンジニアのためのDocker入門 〜 仮想開発・テスト環境構築 〜](https://speakerdeck.com/sammy7th/javaenziniafalsetamefalsedockerru-men)	Abe Asami (きの子)
 - [【G+H】 Eclipse Collectionsを現場に浸透させるためのフレームワーク対応](https://speakerdeck.com/jflute/how-unext-took-in-eclipse-collections-in-fw)	U-NEXT技術顧問　久保　雅彦 (jflute)
 - [【I】 Spring Cloud, Docker & Kubernetes - Lessons Learned in the context of an OSS Project](https://www.slideshare.net/salaboy/jjug-ccc-2018-lessons-learned-spring-cloud-docker-kubernetes)	Mauricio Salatino／Daisuke Yoshimoto
 - [【M】 請負Java開発でスクラムした成功事例](https://speakerdeck.com/morinokumasn/jjugccc-2018-spring-m6-scrum)	小堤司
