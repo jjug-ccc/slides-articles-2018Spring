@@ -23,7 +23,7 @@ JJUG CCC 2018 Spring 登壇資料まとめ
 - 【I】 ディープラーニングシステムの導入と運用で学んだ事	Eduardo Gonzalez
 - [【L】 OCJP SE 8 Gold合格までに取り組んだこと](https://www.slideshare.net/despair_L/jjugcccspring2018-l2)	五十嵐稔雄
 - [【L】 SpotBugs 3.1.xの現状と内部実装が抱える問題](https://speakerdeck.com/eller86/spotbugs3-dot-1-xfalsexian-zhuang-to-nei-bu-shi-zhuang-gabao-eruwen-ti)	Kengo TODA
-- 【M】 Javadocから考える・はじめる業務改善	柚木良介
+- [【M】 Javadocから考える・はじめる業務改善](https://speakerdeck.com/ryoskyz/kaizen-from-javadoc)	柚木良介
 - [【M】 Javaを通じて学ぶメールの世界　～メール送信編～](https://speakerdeck.com/kikutaro/javawotong-zitexue-bumerufalseshi-jie)	菊田洋一
 
 ## 12:00-12:45
